@@ -10,6 +10,7 @@ Tu pourra nommer cette derniere comme tu le souhaite, ta seule tâche sera d'all
 const DBName ligne 3 a ta guise.
 Une fois l'application lancée, je te conseil de la tester un peu pour voir les fonctionalitées dont elle dispose, si tu t'interroges sur
 le fonctionement globale, tu n'a que 3 choses essentiel a savoir.
+
 0.(mdp admin = admin).
 1. La quasi totalité des fonctions se trouvent dans le fichier function.PHP.
 2. L'index.php a le rôle de routeur.
