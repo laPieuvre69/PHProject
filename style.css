@@ -1,0 +1,52 @@
+
+img {
+    height: 30vh;
+    max-width: 100%;
+    /* margin: auto 54px; */
+}
+
+.margin{
+  margin-bottom: 100px;
+}
+
+body{
+  background-image: url('./img/fun.jpg');
+}
+
+
+.btnAction form{
+  margin: 5px;
+}
+.comSec {
+  display: flex;
+  flex-direction: column;
+}
+.header {
+    background-color: white;
+    color: black;
+    width: 548px;
+}
+
+.imgHere{
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.card{
+  width: 548px;
+}
+
+.borderCom{
+  border: 1px solid grey;
+      margin: auto 0px 4px;
+}
+
+.modilete{
+  justify-content: space-around;
+display: flex;
+}
+
+.logout{
+margin-left: 200px;
+}
